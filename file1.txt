@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello world hi this is krishna
-=======
-hello world welcome
->>>>>>> 14de7533b6845767ccaa642e1db28ea11e2806a2
+hello world hi th
